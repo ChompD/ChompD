@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://dexters-lab-dev.vercel.app"><img src="https://img.shields.io/badge/portfolio-dexters--lab--dev.vercel.app-7c9cff?style=flat-square&labelColor=12161e" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/dexter-toribio-5944153ba/"><img src="https://img.shields.io/badge/linkedin-dexter--toribio-2dd4bf?style=flat-square&labelColor=12161e" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dexter-christian-toribio-5944153ba/"><img src="https://img.shields.io/badge/linkedin-dexter--christian--toribio-2dd4bf?style=flat-square&labelColor=12161e" alt="LinkedIn"></a>
   <a href="mailto:toribiodexterc@gmail.com"><img src="https://img.shields.io/badge/email-toribiodexterc%40gmail.com-c4a7ff?style=flat-square&labelColor=12161e" alt="Email"></a>
   <a href="https://www.credly.com/users/dexter-christian-toribio/badges"><img src="https://img.shields.io/badge/credly-15_certifications-34d399?style=flat-square&labelColor=12161e" alt="Credly"></a>
 </p>
