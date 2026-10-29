@@ -1,5 +1,5 @@
 <a href="https://dexters-lab-dev.vercel.app">
-  <img src="assets/banner.svg" alt="Dexter Toribio: Full-Stack Developer, open to internships" width="100%">
+  <img src="assets/banner.svg" alt="Dexter Toribio: Full-Stack Developer" width="100%">
 </a>
 
 <p>
